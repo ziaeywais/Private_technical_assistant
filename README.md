@@ -29,7 +29,7 @@ There's also a relevance threshold, if nothing in your docs is close enough to t
 ```bash
 git clone git clone https://github.com/ziaeywais/Private_technical_assistant.git
 
-cd Private-technical-assistant
+cd Private_technical_assistant
 
 python3 -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
