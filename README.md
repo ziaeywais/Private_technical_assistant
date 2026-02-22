@@ -2,7 +2,7 @@
 
 Local RAG for your technical docs. Point it at a folder of PDFs, ask questions in plain English, get answers with source citations. Nothing goes to any API.
 
-I built this because I got tired of uploading sensitive manuals to ChatGPT. Everything runs on your machine through Ollama.
+I built this because I got tired of uploading sensitive documents to ChatGPT. Everything runs on your machine through Ollama.
 
 ---
 
