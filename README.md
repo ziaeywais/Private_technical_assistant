@@ -27,7 +27,7 @@ There's also a relevance threshold, if nothing in your docs is close enough to t
 ## Getting started
 
 ```bash
-git clone git clone https://github.com/ziaeywais/Private_technical_assistant.git
+git clone https://github.com/ziaeywais/Private_technical_assistant.git
 
 cd Private_technical_assistant
 
