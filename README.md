@@ -48,6 +48,8 @@ Drop your PDFs into a `data/` folder, then build the index:
 
 ```bash
 mkdir data
+```
+```bash
 python ingestion.py
 ```
 
